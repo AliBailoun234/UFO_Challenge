@@ -9,4 +9,4 @@ The website helps users to visualize available data on UFO sightings, because wi
 ### Results
 The webpage created is relatviely simple and easy to follow. There is a filter search bar to the left of the page in order to enhance customer experience and make it easier for users to specify their needs and not go through the whole table to count only a certain element (such as UFO sightings in a state).
 
-![Search Box](../images/Filter.PNG)
+![Search Box](../web/static/images/Filter.jpg)
